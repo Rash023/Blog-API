@@ -1,4 +1,4 @@
 .env
-*go_crud.exe
+go_crud.exe
 go.mod
 go.sum
